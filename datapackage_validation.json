@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.078,
+  "time": 0.082,
   "errors": [],
   "tasks": [
     {
@@ -70,7 +70,7 @@
           "rows": 0
         }
       },
-      "time": 0.07,
+      "time": 0.073,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -3395,7 +3395,7 @@
           "fieldPosition": 7,
           "cells": [
             "1414",
-            "COOPERATIVA ESCOLA DOS ALUNOS DO CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE UBERABA LTDA",
+            "COOPERATIVA ESCOLA DOS ALUNOS DO CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE UBERABA LTDA ",
             "MINAS GERAIS",
             "NÃO",
             "INATIVA",
@@ -11522,7 +11522,7 @@
           "fieldPosition": 7,
           "cells": [
             "2326",
-            "PRONTOMED SOCIEDADE SIMPLES",
+            "PRONTOMED SOCIEDADE SIMPLES ",
             "MINAS GERAIS",
             "NÃO",
             "ATIVA",
@@ -11684,7 +11684,7 @@
           "fieldPosition": 7,
           "cells": [
             "2333",
-            "FACULDADE DE CIÊNCIAS DA SAÚDE DE CAMPOS GERAIS /CENTRO EDUCACIONAL DYLLA LTDA",
+            "FACULDADE DE CIÊNCIAS DA SAÚDE DE CAMPOS GERAIS /CENTRO EDUCACIONAL DYLLA LTDA ",
             "MINAS GERAIS",
             "NÃO",
             "INATIVA",
@@ -15005,7 +15005,7 @@
           "fieldPosition": 7,
           "cells": [
             "2465",
-            "SCREEN SERVICE DO BRASIL IND E COM DE PRODUTOS ELETRONICOS",
+            "SCREEN SERVICE DO BRASIL IND E COM DE PRODUTOS ELETRONICOS ",
             "MINAS GERAIS",
             "NÃO",
             "INATIVA",
@@ -17462,7 +17462,7 @@
           "fieldPosition": 7,
           "cells": [
             "2559",
-            "INRIA - INSTITUIÇÃO INTERNACIONAL",
+            "INRIA - INSTITUIÇÃO INTERNACIONAL ",
             "MINAS GERAIS",
             "NÃO",
             "ATIVA",
@@ -19703,7 +19703,7 @@
           "fieldPosition": 7,
           "cells": [
             "2645",
-            "AXOON SOLUÇÕES TECNOLÓGICAS EM SAÚDE LTDA",
+            "AXOON SOLUÇÕES TECNOLÓGICAS EM SAÚDE LTDA ",
             "MINAS GERAIS",
             "NÃO",
             "INATIVA",
